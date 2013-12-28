@@ -16,6 +16,8 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("U1 Commit 1");
 
+		        System.out.println("U1 Commit 2");
+
     }
     
 }
