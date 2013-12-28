@@ -21,6 +21,8 @@ public class GitTest {
 
 		        System.out.println("U1 Commit 4 - Master");
 
+		        System.out.println("U2 Commit 5 - master");
+
     }
     
 }
