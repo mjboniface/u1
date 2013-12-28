@@ -27,6 +27,8 @@ public class GitTest {
 
 				System.out.println("U2 Commit 6 - master - PULL REQUEST");
 
+								System.out.println("U2 B2");
+
     }
     
 }
